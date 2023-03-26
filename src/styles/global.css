@@ -1,0 +1,12 @@
+.container{
+    color: red;
+}
+
+.primaryBtn{
+    background-color: blue;
+    color: white;
+}
+.dangerBtn{
+    background-color: red;
+    color: white;
+}
